@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "name": "USA",
+    "currency": "USDA"
+  },
+  {
+    "id": 2,
+    "name": "Canada",
+    "currency": "CAD"
+  },
+  {
+    "id": 3,
+    "name": "UK",
+    "currency": "GBP"
+  },
+  {
+    "id": 4,
+    "name": "Germany",
+    "currency": "EUR"
+  },
+  {
+    "id": 5,
+    "name": "France",
+    "currency": "EUR"
+  },
+  {
+    "id": 6,
+    "name": "Japan",
+    "currency": "JPY"
+  },
+  {
+    "id": 7,
+    "name": "Australia",
+    "currency": "AUD"
+  },
+  {
+    "id": 8,
+    "name": "China",
+    "currency": "CNY"
+  },
+  {
+    "id": 9,
+    "name": "South Korea",
+    "currency": "KRW"
+  },
+  {
+    "id": 10,
+    "name": "Singapore",
+    "currency": "SGD"
+  },
+  {
+    "id": 11,
+    "name": "TestCN",
+    "currency": "TST"
+  },
+  {
+    "id": 12,
+    "name": "TestAdd",
+    "currency": "TST"
+  },
+  {
+    "id": 13,
+    "name": "asda",
+    "currency": "cha"
+  }
+]
